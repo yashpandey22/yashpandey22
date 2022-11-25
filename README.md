@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yash Pandey, I'm a Master of Computer Science Management student at the University of Queensland.
 - 👀 I’m interested in Internet of Things (IoT) and Automation.
-- 🌱 I’m currently learning Embedded System Design.
+- 🌱 I’m currently doing Master of Computer Science Managament at The University of Queensland.
 <!--- 💞️ I’m looking to collaborate on ...--->
 - 📫 Email: yashpandey22@gmail.com
 
